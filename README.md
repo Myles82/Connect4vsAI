@@ -6,6 +6,8 @@ Play against an AI programmed to win.
 Can you beat it?
 
 
+
+
 Controls :
 
   (1 - 7) - to place chip in a given column
@@ -29,6 +31,8 @@ Green indicates a win
 Yellow indicates a tie
 
 Disclaimer - Full screen makes the game run very slow
+
+
 
 
 How To Run:
